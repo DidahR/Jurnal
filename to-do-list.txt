@@ -1,10 +1,13 @@
 To-do-list
+- shalat tahajud
 - Bangun pagi
   * shalat subuh
 - Olahraga
   * stretching
 - Belajar/mengerjakan tugas
   * pemrograman
+    ^ github
+    ^ web
   * bahasa inggris
 - Baca buku
   * motivasi
