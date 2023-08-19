@@ -5,6 +5,8 @@ To-do-list
   * stretching
 - Belajar/mengerjakan tugas
   * pemrograman
+    ^ github
+    ^ web
   * bahasa inggris
 - Baca buku
   * motivasi
