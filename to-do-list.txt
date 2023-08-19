@@ -1,6 +1,7 @@
 To-do-list
 - Bangun pagi
-  * shalat
+  * shalat subuh
+  * shalat dhuha
 - Olahraga
   * stretching
   * menambah berat badan
