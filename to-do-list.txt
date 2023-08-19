@@ -3,11 +3,9 @@ To-do-list
 - Bangun pagi
   * shalat subuh
   * shalat dhuha
-- Olahraga
-  * stretching
-  * menambah berat badan
 - Belajar/mengerjakan tugas
   * pemrograman
+    ^ web
   * bahasa inggris
   * bahasa jepang
 - Baca buku
