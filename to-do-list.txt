@@ -1,12 +1,10 @@
 To-do-list
-- Shalat tahajud
 - Bangun pagi
   * shalat subuh
-  * shalat dhuha
+- Olahraga
+  * stretching
 - Belajar/mengerjakan tugas
   * pemrograman
-    ^ web
   * bahasa inggris
-  * bahasa jepang
 - Baca buku
   * motivasi
