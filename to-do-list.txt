@@ -1,10 +1,10 @@
 To-do-list
 - Bangun pagi
   * shalat subuh
-- Olahraga
-  * stretching
 - Belajar/mengerjakan tugas
   * pemrograman
+    ^ html
+    ^ javascript
   * bahasa inggris
 - Baca buku
   * motivasi
