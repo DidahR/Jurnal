@@ -4,9 +4,9 @@ To-do-list
   * shalat dhuha
 - Olahraga
   * stretching
-  * menambah berat badan
 - Belajar/mengerjakan tugas
   * pemrograman
+    ^ web
   * bahasa inggris
 - Baca buku
   * motivasi
