@@ -1,4 +1,5 @@
 To-do-list
+- Shalat tahajud
 - Bangun pagi
   * shalat subuh
   * shalat dhuha
@@ -8,5 +9,6 @@ To-do-list
 - Belajar/mengerjakan tugas
   * pemrograman
   * bahasa inggris
+  * bahasa jepang
 - Baca buku
   * motivasi
